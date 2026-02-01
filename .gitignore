@@ -36,3 +36,9 @@ __debug_bin
 
 # Local notes
 .notes/
+
+# Local docker overrides
+docker-compose.override.yml
+
+# Credentials
+.ssh-credentials
