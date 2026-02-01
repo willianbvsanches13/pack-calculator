@@ -1,0 +1,38 @@
+# Binaries
+pack-calculator
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Coverage
+coverage.out
+coverage.html
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
+
+# Vendor (if not using modules)
+vendor/
+
+# Debug
+__debug_bin
+
+# Local notes
+.notes/
